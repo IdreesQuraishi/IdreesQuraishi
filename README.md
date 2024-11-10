@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @IdreesQuraishi
 - 👀 I’m interested in Python, Web Developing, and Networking
 - 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at edreesquraishi6@gmail.com email.
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Playing Football
 
 <!---
 IdreesQuraishi/IdreesQuraishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
